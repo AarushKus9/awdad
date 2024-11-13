@@ -1,0 +1,16 @@
+<Module>
+  <ModulePrefs title="My Test Gadget" description="A test gadget for my game">
+    <Feature> <Name>dynamic-height</Name> </Feature>
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+      <html>
+        <body>
+          <h1>Welcome to My Test Gadget</h1>
+          <p>This is a gadget to test my game.</p>
+          <!-- Add game-related iframe or embed here -->
+        </body>
+      </html>
+    ]]>
+  </Content>
+</Module>
